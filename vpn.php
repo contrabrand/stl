@@ -1,4 +1,4 @@
-{"Version":"1.2",
+{"Version":"1.3",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -7,6 +7,8 @@
 🙏 ยินดีต้อนรับสู่ Stallion OVPN​🙏
 
 รายการอัพเดทวันนี้​
+
+➡️ เพิ่มไฟล์ เซิฟ​ 🇸🇬 MICROSOFT
 
 🆓 ทางเรามีบริการไฟล์ฟรีสำหรับเครือข่าย 🆓
 
