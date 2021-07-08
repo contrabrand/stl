@@ -1,4 +1,4 @@
-{"Version":"1.6",
+{"Version":"1.7",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -8,17 +8,32 @@
 
             Fast  Secure Stable
 
-Glider OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed. 
+Glider OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
+
+Update on 9 July 2021 
+
+Added new files
+
+SG1-DTAC-LINE 🇸🇬
+SG1-DTAC-SOCIAL 🇸🇬
+SG1-HAPPYWORK 🇸🇬
+SG1-AIS 🇸🇬
+SG1-TRUE 🇸🇬
+VIP-SG-MICROSOFT-TRUE 🇸🇬
+VIP-SG-MICROSOFT-AIS 🇸🇬
+
+* สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
+
 
 What we privode in our app
 
 🟢 AIS 🇹🇭
 🔵 DTAC 🇹🇭
-🔴 TRUE 🇹🇭
+🔴 TRUE 🇹🇭 
 🔴 MAXIS 🇲🇾 🔜
-🟡 DIGI 🇲🇾 
-🟠 Umobile 🇲🇾 
-🔵 Celcom 🇲🇾 
+🟡 DIGI 🇲🇾 🔜
+🟠 Umobile 🇲🇾 🔜
+🔵 Celcom 🇲🇾 🔜
 🔴 Telkomsel 🇲🇨 🔜
 
 Our server location
