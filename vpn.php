@@ -21,6 +21,7 @@ SG1-AIS 🇸🇬
 SG1-TRUE 🇸🇬
 VIP-SG-MICROSOFT-TRUE 🇸🇬
 VIP-SG-MICROSOFT-AIS 🇸🇬
+UMOBILE-SG 🇸🇬
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
 
@@ -32,7 +33,7 @@ What we privode in our app
 🔴 TRUE 🇹🇭 
 🔴 MAXIS 🇲🇾 🔜
 🟡 DIGI 🇲🇾 🔜
-🟠 Umobile 🇲🇾 🔜
+🟠 Umobile 🇲🇾 
 🔵 Celcom 🇲🇾 🔜
 🔴 Telkomsel 🇲🇨 🔜
 
