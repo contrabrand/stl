@@ -4,11 +4,11 @@
 
 "Changelog":"  
 
-🙏 WELCOME TO Stallion OVPN🙏
+        🙏 WELCOME TO Stallion OVPN🙏
 
             Fast  Secure Stable
 
-Glider OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
+Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
 
 Update on 9 July 2021 
 
