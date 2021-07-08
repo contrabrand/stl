@@ -6,13 +6,13 @@
 
         🙏 WELCOME TO Stallion OVPN🙏
 
-            Fast  Secure Stable
-
+               Fast  Secure Stable
+  
 Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
 
 Update on 9 July 2021 
 
-Added new files
+New added files
 
 SG1-DTAC-LINE 🇸🇬
 SG1-DTAC-SOCIAL 🇸🇬
