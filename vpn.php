@@ -1,4 +1,4 @@
-{"Version":"1.5",
+{"Version":"1.6",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -16,9 +16,9 @@ What we privode in our app
 🔵 DTAC 🇹🇭
 🔴 TRUE 🇹🇭
 🔴 MAXIS 🇲🇾 🔜
-🟡 DIGI 🇲🇾 🔜
-🟠 Umobile 🇲🇾 🔜
-🔵 Celcom 🇲🇾 🔜
+🟡 DIGI 🇲🇾 
+🟠 Umobile 🇲🇾 
+🔵 Celcom 🇲🇾 
 🔴 Telkomsel 🇲🇨 🔜
 
 Our server location
