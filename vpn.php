@@ -1,4 +1,4 @@
-{"Version":"2.0",
+{"Version":"2.01",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -14,12 +14,10 @@ Update on 11 July 2021
 
 New added files
 
-MAXIS-SG 🇸🇬
-CELCOM-SG 🇸🇬
-DIGI-SG 🇸🇬
-SG1-AIS 🇸🇬
-VIP-TH-AIS 🇹🇭
-VIP-TH-TRUE 🇹🇭
+MAXIS-TH 🇹🇭
+CELCOM-TH 🇹🇭
+DIGI-TH 🇹🇭
+UMOBILE-TH 🇹🇭
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
 * Please contact admin to get username and password
