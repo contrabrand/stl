@@ -1,4 +1,4 @@
-{"Version":"1.8",
+{"Version":"1.9",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -14,14 +14,12 @@ Update on 9 July 2021
 
 New added files
 
-SG1-DTAC-LINE 🇸🇬
-SG1-DTAC-SOCIAL 🇸🇬
-SG1-HAPPYWORK 🇸🇬
+MAXIS-SG 🇸🇬
+CELCOM-SG 🇸🇬
+DIGI-SG 🇸🇬
 SG1-AIS 🇸🇬
-SG1-TRUE 🇸🇬
-VIP-SG-MICROSOFT-TRUE 🇸🇬
-VIP-SG-MICROSOFT-AIS 🇸🇬
-UMOBILE-SG 🇸🇬
+VIP-TH-AIS 🇹🇭
+VIP-TH-TRUE 🇹🇭
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
 
@@ -31,10 +29,10 @@ What we privode in our app
 🟢 AIS 🇹🇭
 🔵 DTAC 🇹🇭
 🔴 TRUE 🇹🇭 
-🔴 MAXIS 🇲🇾 🔜
-🟡 DIGI 🇲🇾 🔜
+🔴 MAXIS 🇲🇾 
+🟡 DIGI 🇲🇾 
 🟠 Umobile 🇲🇾 
-🔵 Celcom 🇲🇾 🔜
+🔵 Celcom 🇲🇾 
 🔴 Telkomsel 🇲🇨 🔜
 
 Our server location
