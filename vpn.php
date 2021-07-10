@@ -1,4 +1,4 @@
-{"Version":"2.01",
+{"Version":"2.1",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
