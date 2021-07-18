@@ -1,10 +1,10 @@
-{"Version":"2.1",
+{"Version":"2.2",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
 "Changelog":"  
 
-        🙏 WELCOME TO Stallion OVPN🙏
+          🙏 WELCOME TO Stallion OVPN🙏
 
                Fast  Secure Stable
   
