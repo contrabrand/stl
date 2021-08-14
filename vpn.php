@@ -1,4 +1,4 @@
-{"Version":"2.3",
+{"Version":"2.4",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -14,8 +14,16 @@ Update on 1 Aug 2021
 
 New added files
 
-DTAC-TH 🇹🇭
-TRUE-TH 🇹🇭
+VIP-AIS-TH 🇹🇭
+VIP-TRUE-TH 🇹🇭
+VIP-DTACLINE-TH 🇹🇭
+VIP-DTACSOCIAL-TH 🇹🇭
+S-AIS 🇸🇬
+S-TRUE 🇸🇬
+S-DTAC-LINE 🇸🇬
+S-DTAC-SOCIAL 🇸🇬
+VIP-TH-AIS 🇹🇭
+VIP-TH-TRUE 🇹🇭
 
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
@@ -23,7 +31,7 @@ TRUE-TH 🇹🇭
 
 What we privode in our app
 
-🟢 AIS 🇹🇭 🔜
+🟢 AIS 🇹🇭 
 🔵 DTAC 🇹🇭
 🔴 TRUE 🇹🇭 
 🔴 MAXIS 🇲🇾 🔜
@@ -33,7 +41,7 @@ What we privode in our app
 🔴 Telkomsel 🇲🇨 🔜
 
 Our server location
-🇸🇬 🔜
+🇸🇬 
 🇹🇭 
 🇲🇾 🔜
 🇲🇨 🔜
