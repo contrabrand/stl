@@ -1,4 +1,4 @@
-{"Version":"2.5",
+{"Version":"2.6",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -10,20 +10,23 @@
   
 Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
 
-Update on 1 Aug 2021 
+Update on 19 Aug 2021 
 
 New added files
 
-TH-AIS 🇹🇭
-TH-TRUE 🇹🇭
-TH-DTACLINE 🇹🇭
-TH-DTACSOCIAL 🇹🇭
-S-AIS 🇸🇬
-S-TRUE 🇸🇬
-S-DTAC-LINE 🇸🇬
-S-DTAC-SOCIAL 🇸🇬
-VIP-TH-AIS 🇹🇭
-VIP-TH-TRUE 🇹🇭
+TH2-AIS 🇹🇭
+TH2-TRUE 🇹🇭
+TH2-DTACLINE 🇹🇭
+TH2-DTACSOCIAL 🇹🇭
+ADMIN-AMAZON 🇸🇬
+ADMIN-SGL 🇸🇬
+ADMIN-SGDO 🇸🇬
+S-UMO 🇸🇬
+S-MAXIS 🇸🇬
+S-CELCOM 🇸🇬
+S-DIGI 🇸🇬
+ADMIN-TH 🇹🇭
+
 
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
@@ -35,10 +38,10 @@ What we privode in our app
 🟢 AIS 🇹🇭 
 🔵 DTAC 🇹🇭
 🔴 TRUE 🇹🇭 
-🔴 MAXIS 🇲🇾 🔜
-🟡 DIGI 🇲🇾 🔜
-🟠 Umobile 🇲🇾 🔜
-🔵 Celcom 🇲🇾 🔜
+🔴 MAXIS 🇲🇾 
+🟡 DIGI 🇲🇾 
+🟠 Umobile 🇲🇾 
+🔵 Celcom 🇲🇾 
 🔴 Telkomsel 🇲🇨 🔜
 
 Our server location
