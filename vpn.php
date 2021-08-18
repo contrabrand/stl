@@ -1,4 +1,4 @@
-{"Version":"2.4",
+{"Version":"2.5",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -14,10 +14,10 @@ Update on 1 Aug 2021
 
 New added files
 
-VIP-AIS-TH 🇹🇭
-VIP-TRUE-TH 🇹🇭
-VIP-DTACLINE-TH 🇹🇭
-VIP-DTACSOCIAL-TH 🇹🇭
+TH-AIS 🇹🇭
+TH-TRUE 🇹🇭
+TH-DTACLINE 🇹🇭
+TH-DTACSOCIAL 🇹🇭
 S-AIS 🇸🇬
 S-TRUE 🇸🇬
 S-DTAC-LINE 🇸🇬
@@ -27,6 +27,7 @@ VIP-TH-TRUE 🇹🇭
 
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
+* สำหรับไฟล์สิงคโป ติดต่อแอดมินเพื่อขอ User และ  Password
 * Please contact admin to get username and password
 
 What we privode in our app
