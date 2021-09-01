@@ -1,4 +1,4 @@
-{"Version":"3.2",
+{"Version":"3.3",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -14,11 +14,13 @@ Update on 01 SEP 2021
 
 New added files
 
-AIS3
-TRUE3 
-DTAC LINE/SOCIAL/WORK 3
+AIS
+TRUE 
+DTAC LINE/SOCIAL/WORK 
 
-DATA CENTRE : 🇸🇬
+*SG server 3
+
+DATA CENTRE : 🇸🇬 🇭🇰
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
 * สำหรับไฟล์สิงคโป ติดต่อแอดมินเพื่อขอ User และ  Password
