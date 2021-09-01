@@ -1,4 +1,4 @@
-{"Version":"3.1",
+{"Version":"3.2",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -14,11 +14,11 @@ Update on 01 SEP 2021
 
 New added files
 
-AIS
-TRUE 
-DTAC LINE/SOCIAL/WORK
+AIS3
+TRUE3 
+DTAC LINE/SOCIAL/WORK 3
 
-DATA CENTRE : 🇸🇬l🇹🇭
+DATA CENTRE : 🇸🇬
 
 * สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
 * สำหรับไฟล์สิงคโป ติดต่อแอดมินเพื่อขอ User และ  Password
@@ -35,7 +35,7 @@ What we privode in our app
 🔵 Celcom 🇲🇾 🔜
 🔴 Telkomsel 🇲🇨 🔜
 
-Our server location
+Our  location server
 🇸🇬 
 🇹🇭 🔜
 🇲🇾 🔜
