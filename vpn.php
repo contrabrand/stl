@@ -1,4 +1,4 @@
-{"Version":"3.4",
+{"Version":"3.5",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -14,9 +14,8 @@ Update on 03 SEP 2021
 
 New added files
 
-DTAC SHOPPE
-
-*SG server 1,2,3
+แก้เซิฟ3
+เพิ่มไฟล์แอดมิน
 
 DATA CENTRE : 🇸🇬 
 
