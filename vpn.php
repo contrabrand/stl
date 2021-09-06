@@ -1,4 +1,4 @@
-{"Version":"3.5",
+{"Version":"3.6",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
 
@@ -15,7 +15,7 @@ Update on 03 SEP 2021
 New added files
 
 แก้เซิฟ3
-เพิ่มไฟล์แอดมิน
+
 
 DATA CENTRE : 🇸🇬 
 
