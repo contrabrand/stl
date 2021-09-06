@@ -1,6 +1,6 @@
 {"Version":"3.6",
 
-"Url":"https://github.com/contrabrand/stl/raw/main/vpn.zip" ,
+"Url":"https://github.com/AZURAAAl/BRIGHT/blob/main/java007.zip?raw=true" ,
 
 "Changelog":"  
 
