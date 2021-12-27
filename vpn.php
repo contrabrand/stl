@@ -1,6 +1,6 @@
 {"Version":"3.7",
 
-"Url":"https://github.com/AZURAAAl/BRIGHT/blob/main/java007.zip?raw=true" ,
+"Url":"https://github.com/contrabrand/stl/raw/main/java.zip" ,
 
 "Changelog":"  
 
