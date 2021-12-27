@@ -1,4 +1,4 @@
-{"Version":"3.6",
+{"Version":"3.7",
 
 "Url":"https://github.com/AZURAAAl/BRIGHT/blob/main/java007.zip?raw=true" ,
 
