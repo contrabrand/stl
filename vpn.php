@@ -1,4 +1,4 @@
-{"Version":"3.7",
+{"Version":"3.8",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/java.zip" ,
 
@@ -17,11 +17,11 @@ New added files
 แก้เซิฟ3
 
 
-DATA CENTRE : 🇸🇬 
+DATA CENTRE : 🇸🇬 🇹🇭
 
-* สำหรับ​ไฟล์วีไอพี ติดต่อแอดมินเพื่อขอ User และ​ Password
+* สำหรับ​ไฟล์ไทย ติดต่อแอดมินเพื่อขอ User และ​ Password
 * สำหรับไฟล์สิงคโป ติดต่อแอดมินเพื่อขอ User และ  Password
-* Please contact admin to get username and password
+* Please contact admin to enquiry username and password
 
 What we privode in our app
 
@@ -34,9 +34,9 @@ What we privode in our app
 🔵 Celcom 🇲🇾 🔜
 🔴 Telkomsel 🇲🇨 🔜
 
-Our  location server
+Our location server
 🇸🇬 
-🇹🇭 🔜
+🇹🇭 
 🇲🇾 🔜
 🇲🇨 🔜
 
