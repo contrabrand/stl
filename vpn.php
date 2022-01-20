@@ -14,10 +14,11 @@ Update on 03 SEP 2021
 
 New added files
 
-เพิ่่มไฟล์ SG1 
+เพิ่่มไฟล์ SG1 และ​ ID
 
 
-DATA CENTRE : 🇸🇬 🇹🇭
+
+DATA CENTRE : 🇸🇬 🇹🇭 🇲🇨
 
 * สำหรับ​ไฟล์ไทย ติดต่อแอดมินเพื่อขอ User และ​ Password
 * สำหรับไฟล์สิงคโป ติดต่อแอดมินเพื่อขอ User และ  Password
@@ -38,7 +39,7 @@ Our location server
 🇸🇬 
 🇹🇭 
 🇲🇾 🔜
-🇲🇨 🔜
+🇲🇨 
 
 Please choose the nearest server to your location for connection stability and get high-speed performance 
 
