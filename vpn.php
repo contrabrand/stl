@@ -1,4 +1,4 @@
-{"Version":"3.8",
+{"Version":"3.9",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/java.zip" ,
 
@@ -14,7 +14,7 @@ Update on 03 SEP 2021
 
 New added files
 
-แก้เซิฟ3
+เพิ่่มไฟล์ SG1 
 
 
 DATA CENTRE : 🇸🇬 🇹🇭
