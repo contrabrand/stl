@@ -1,4 +1,4 @@
-{"Version":"4.0",
+{"Version":"4.1",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/java.zip" ,
 
@@ -14,10 +14,7 @@ Update on 21 JAN 2022
 
 New added files
 
-เพิ่มไฟล์
-HK
-JP
-US
+แก้ไฟล์​ HK
 
 DATA CENTRE : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇹🇼 🇯🇵
 
