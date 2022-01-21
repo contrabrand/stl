@@ -1,4 +1,4 @@
-{"Version":"4.1",
+{"Version":"4.2",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/java.zip" ,
 
@@ -14,7 +14,7 @@ Update on 21 JAN 2022
 
 New added files
 
-แก้ไฟล์​ HK
+SG-VIP และ​ SG
 
 DATA CENTRE : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇹🇼 🇯🇵
 
