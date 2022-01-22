@@ -1,16 +1,17 @@
-{"Version":"4.4",
+{"Version":"4.5",
 
-"Url":"https://github.com/contrabrand/stl/raw/main/java.zip" ,
+"Url":"https://nayutech.000webhostapp.com/stl/stl.zip" ,
 
 "Changelog":"  
 
           🙏 WELCOME TO Stallion OVPN🙏
+                   By NayuTech 
 
                Fast  Secure Stable
   
 Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
 
-Update on 21 JAN 2022
+Update on 23 JAN 2022
 
 New added files
 
@@ -18,8 +19,8 @@ New added files
 
 DATA CENTRE : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇹🇼 🇯🇵
 
-* สำหรับ​ไฟล์ไทย ติดต่อแอดมินเพื่อขอ User และ​ Password
-* สำหรับไฟล์สิงคโป ติดต่อแอดมินเพื่อขอ User และ  Password
+* สำหรับ​ไฟล์​ TH-VIP ติดต่อแอดมินเพื่อขอ User และ​ Password
+* สำหรับไฟล์​ SG-VIP ติดต่อแอดมินเพื่อขอ User และ  Password
 * Please contact admin to enquiry username and password
 
 What we privode in our app
