@@ -11,11 +11,11 @@
   
 Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
 
-Update on 23 JAN 2022
+Update on 24 JAN 2022
 
 New added files
 
-แก้ไฟล์เสียทั้งหมด
+เพิ่มเซิฟไทยแบบไม่ต้องขอรหัส
 
 DATA CENTRE : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇹🇼 🇯🇵
 
