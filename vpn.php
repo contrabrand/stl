@@ -17,11 +17,11 @@ New added files
 
 เพิ่มเซิฟสิงคโป
 
-DATA CENTRE : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇹🇼 🇯🇵
+SERVER​ : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇭🇰 🇯🇵
 
 * สำหรับ​ไฟล์​ TH-VIP ติดต่อแอดมินเพื่อขอ User และ​ Password
 * สำหรับไฟล์​ SG-VIP ติดต่อแอดมินเพื่อขอ User และ  Password
-* Please contact admin to enquiry username and password
+* please contact admin for authentication
 
 What we privode in our app
 
@@ -34,11 +34,6 @@ What we privode in our app
 🔵 Celcom 🇲🇾 🔜
 🔴 Telkomsel 🇲🇨 🔜
 
-Our location server
-🇸🇬 
-🇹🇭 
-🇲🇾 🔜
-🇲🇨 
 
 Please choose the nearest server to your location for connection stability and get high-speed performance 
 
