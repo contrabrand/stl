@@ -1,6 +1,6 @@
 {"Version":"4.8",
 
-"Url":"https://nayutech.000webhostapp.com/stl/stl.zip" ,
+"Url":"https://github.com/contrabrand/stl/raw/main/stl.zip" ,
 
 "Changelog":"  
 
