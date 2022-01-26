@@ -1,4 +1,4 @@
-{"Version":"4.7",
+{"Version":"4.8",
 
 "Url":"https://nayutech.000webhostapp.com/stl/stl.zip" ,
 
@@ -11,11 +11,11 @@
   
 Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
 
-Update on 24 JAN 2022
+Update on 27 JAN 2022
 
 New added files
 
-เพิ่มเซิฟสิงคโป
+เพิ่มเซิฟสิงคโป​ SG1
 
 SERVER​ : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇭🇰 🇯🇵
 
