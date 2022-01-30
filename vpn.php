@@ -1,4 +1,4 @@
-{"Version":"5.3",
+{"Version":"5.4",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/stl.zip" ,
 
@@ -15,11 +15,13 @@ Update on 30 JAN 2022
 
 New added files
 
-เพิ่มเซิฟสิงคโป​ SG4
+เพิ่มเซิฟอินเดีย​ IN
+เพิ่มเซิฟฮอลแลนด์​ NL
+เพิ่มเซิฟ​สิงคโปร์​ SG5 
 
-แก้ไขไฟล์SG3
 
-SERVER​ : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇭🇰 🇯🇵 🇰🇷
+
+SERVER​ : 🇸🇬 🇹🇭 🇲🇨 🇺🇸 🇭🇰 🇯🇵 🇰🇷 🇮🇳 🇳🇱
 
 * สำหรับ​ไฟล์​ TH-VIP ติดต่อแอดมินเพื่อขอ User และ​ Password
 * สำหรับไฟล์​ SG-VIP ติดต่อแอดมินเพื่อขอ User และ  Password
