@@ -1,4 +1,4 @@
-{"Version":"5.5",
+{"Version":"5.6",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/stl.zip" ,
 
@@ -11,13 +11,11 @@
   
 Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
 
-Update on 30 JAN 2022
+Update on 01 February 2022
 
 New added files
 
-เพิ่มเซิฟอินเดีย​ IN
-เพิ่มเซิฟฮอลแลนด์​ NL
-เพิ่มเซิฟ​สิงคโปร์​ SG5 
+เพิ่ม​ server TH4-GAME
 
 
 
