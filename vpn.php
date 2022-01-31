@@ -15,7 +15,7 @@ Update on 01 February 2022
 
 New added files
 
-เพิ่ม​ server TH4-GAME
+เพิ่ม​ server TH-GAME
 
 
 
