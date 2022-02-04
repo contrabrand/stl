@@ -1,31 +1,37 @@
-{"Version":"5.7",
+{"Version":"5.8",
 
-"Url":"https://github.com/contrabrand/stl/raw/main/stl.zip" ,
+"Url":"https://github.com/contrabrand/stl/raw/main/VIP.zip" ,
 
 "Changelog":"  
 
-          🙏 WELCOME TO Stallion OVPN🙏
+           🙏 WELCOME TO Stallion OVPN Premium🙏
                    By NayuTech 
 
                Fast  Secure Stable
+
+✅แอพนี้สำหรับบริการพรีเมี่ยมเท่านั้น
   
-Stallion OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed.
+Stallion OVPN is  a premium  app for those who want to access Internet securely and get more faster download speed.
 
-Update on 01 February 2022
+✅Update on 05 February 2022
 
-New added files
+✅New added files
 
-เพิ่ม​ server TH-GAME / New Hk2 / New JP
+เพิ่ม​ server VIP-TH / VIP-SG
 
 
 
-SERVER​ : 🇸🇬 🇹🇭  🇺🇸 🇭🇰 🇯🇵 🇰🇷 🇮🇳 🇳🇱
+✅SERVER​ : 🇸🇬 🇹🇭 
 
-* สำหรับ​ไฟล์​ TH-VIP ติดต่อแอดมินเพื่อขอ User และ​ Password
-* สำหรับไฟล์​ SG-VIP ติดต่อแอดมินเพื่อขอ User และ  Password
+* ติดต่อแอดมินเพื่อเช่า 
+* ค่าเช่า​ 30​ บาททุกเดือน
+* ติดต่อ​ admin​ LINE : yallaj
+* แอปฟรีติดต่อแอดมินครับ
 * please contact admin for authentication
 
-What we privode in our app
+
+
+✅What we privode in our app
 
 🟢 AIS 🇹🇭 
 🔵 DTAC 🇹🇭
@@ -33,8 +39,6 @@ What we privode in our app
 🔴 MAXIS 🇲🇾 🔜
 🟡 DIGI 🇲🇾 🔜
 🟠 Umobile 🇲🇾 🔜
-🔵 Celcom 🇲🇾 🔜
-🔴 Telkomsel 🇲🇨 🔜
 
 
 Please choose the nearest server to your location for connection stability and get high-speed performance 
