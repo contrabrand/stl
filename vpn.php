@@ -4,7 +4,7 @@
 
 "Changelog":"  
 
-           🙏 WELCOME TO Stallion OVPN Premium🙏
+        🙏 WELCOME TO Stallion OVPN Premium 🙏
                    By NayuTech 
 
                Fast  Secure Stable
