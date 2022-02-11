@@ -1,4 +1,4 @@
-{"Version":"5.9",
+{"Version":"6.0",
 
 "Url":"https://github.com/contrabrand/stl/raw/main/VIP.zip" ,
 
@@ -13,11 +13,11 @@
   
 Stallion OVPN is  a premium  app for those who want to access Internet securely and get more faster download speed.
 
-✅Update on 05 February 2022
+✅Update on 11 February 2022
 
 ✅New added files
 
-เพิ่ม​ server VIP-TH3 / VIP-SG2
+แก้ไข​ VIP-TH3
 
 
 
